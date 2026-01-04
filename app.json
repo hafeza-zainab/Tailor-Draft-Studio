@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Tailor Draft Studio",
+    "slug": "tailor-draft-studio",
+    "version": "1.0.0",
+    "platforms": ["ios", "android", "web"],
+    "orientation": "portrait"
+  }
+}
